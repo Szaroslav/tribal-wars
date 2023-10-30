@@ -12,3 +12,8 @@ Taran (\d+\.\d+) o (\d+:\d+:\d+) \[\d+\]( \[[a-z\/]+\])?
 ```regexp
 .*\((\d{3}\|\d{3})\) K\d+.*\((\d{3}\|\d{3})\) K\d+.*
 ```
+
+### Villages of player from their profile
+```regexp
+\n(\d{3}\|\d{3})\s
+```
